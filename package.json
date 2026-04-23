@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-flux/react-native-assets",
+  "name": "@flux-ds/react-native-assets",
   "version": "1.0.0",
   "description": "Flux Design System assets, strings, icons, and i18n for React Native",
   "main": "src/index.ts",
